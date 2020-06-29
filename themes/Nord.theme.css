@@ -3,8 +3,25 @@
 @import url("https://monstrousdev.github.io/themes/addons/user-tags.css");
 @import url("https://codedotspectra.github.io/themes/core/badges.css");
 :root {
---primary: #3b4252;
---primaryGradient2: #3b4252;
---backgroundDark: #2e3440;
---backgroundDarker: #d8dee9;
+    --primary: #3b4252;
+    --primaryGradient2: #3b4252;
+    --backgroundDark: #2e3440;
+    --backgroundDarker: #d8dee9;
+
+    --DangerColor: #dc3545;
+    --WarningColor: #ffc107;
+    --SuccesColor: #28a745;
+    --rs-small-spacing: 0px;
+    --rs-large-spacing: 0px;
+    --rs-width: 2px;
+    --rs-avatar-shape: 100%;
+    --rs-online-color: #a3be8c;
+    --rs-idle-color: #ebcb8b;
+    --rs-dnd-color: #bf616a;
+    --rs-offline-color: #3b4252;
+    --rs-streaming-color: #b48ead;
+    --rs-invisible-color: #e5e9f0;
+
+    --backgroundCode: rgba(0, 0, 0, 0.35);
+    --backgroundName: rgba(0, 0, 0, 0.2);
 }
