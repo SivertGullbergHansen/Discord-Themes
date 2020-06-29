@@ -7,6 +7,7 @@ Themes I've created or modified for BetterDiscord / Bandaged BD Discord
 - Save the file to a known location *(Press Ctrl + S)*
 - Open Discord and locate **Settings > Themes** and press **Open Themes Folder**.
 - Move or Copy the downloaded .css-file to the directory opened by Discord.
+- To activate the theme, go back to discord in **Settings > Themes** and press the gray rounded button at the right side of your designated theme.
 
 ## Themes
 # Nord | Polar Night
@@ -20,7 +21,7 @@ Themes I've created or modified for BetterDiscord / Bandaged BD Discord
 
 ### Sources
 
-Nord was created with the following resources.
+Nord was created using the following resources.
 
 | Name | Website |
 | ------ | ------ |
