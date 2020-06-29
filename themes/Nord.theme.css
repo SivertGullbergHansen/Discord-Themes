@@ -1,0 +1,10 @@
+//META{"name":"Nord","description":"Created by Sivert#0001 using Nord's Polar Night-colors - Based on the Nocturnal theme made by Yann (https://codedotspectra.me/)","author":"Sivert#0001","version":" [Auto Updated]","invite":"Ux9yAY3","source":"https://github.com/codedotspectra/themes","website":"https://sivert.xyz/"}*//
+@import url("https://codedotspectra.github.io/themes/nocturnal/importCSS/core.css");
+@import url("https://monstrousdev.github.io/themes/addons/user-tags.css");
+@import url("https://codedotspectra.github.io/themes/core/badges.css");
+:root {
+--primary: #3b4252;
+--primaryGradient2: #3b4252;
+--backgroundDark: #2e3440;
+--backgroundDarker: #d8dee9;
+}
