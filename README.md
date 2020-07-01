@@ -15,7 +15,7 @@ Themes I've created or modified for BetterDiscord / Bandaged BD Discord
 <img src="https://spectrum.imgix.net/communities/0f986bc0-0520-46d5-a57a-f845546f965f/7fc4712c-1e5a-423f-8418-2a0d0fca4762-nord-logo-avatar.png?w=256&h=256&dpr=2&auto=compress&expires=1592352000000&ixlib=js-1.3.0&s=d478c37b9717e9bb9754c9aae6fff065" width="128">
 
 ### Preview
-<img src="https://sivert.xyz/wp-content/uploads/2020/06/discord-nord.png">
+<img src="https://sivert.xyz/wp-content/uploads/2020/07/discord-nord.png">
 
 ### Download
 <a href="https://raw.githubusercontent.com/SivertGullbergHansen/Discord-Themes/master/themes/Nord.theme.css" download target="_blank">Click here to download</a>
