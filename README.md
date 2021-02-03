@@ -3,7 +3,7 @@
 Themes I've created or modified for BetterDiscord / Bandaged BD Discord
 
 ## Installation
-**This theme requires you to already have BetterDiscord/Bandaged BD Discord installed**
+**These themes require you to already have BetterDiscord/Bandaged BD Discord installed**
 - Click the download-link below depending on which theme you would like.
 - Save the file to a known location *(Press Ctrl + S)*
 - Open Discord and locate **User Settings > Themes** and press **Open Themes Folder**.
