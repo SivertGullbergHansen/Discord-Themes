@@ -3,12 +3,15 @@
 Themes I've created or modified for BetterDiscord / Bandaged BD Discord
 
 ## Installation
-**This theme requires you to already have BetterDiscord installed**
+**This theme requires you to already have BetterDiscord/Bandaged BD Discord installed**
 - Click the download-link below depending on which theme you would like.
 - Save the file to a known location *(Press Ctrl + S)*
-- Open Discord and locate **Settings > Themes** and press **Open Themes Folder**.
+- Open Discord and locate **User Settings > Themes** and press **Open Themes Folder**.
 - Move or Copy the downloaded .css-file to the directory opened by Discord.
-- To activate the theme, go back to discord in **Settings > Themes** and press the gray rounded button at the right side of your designated theme.
+- You should see it appear in discord the moment it finishes transferring the file. 
+(Hierarchy should look something like this:
+ C:\Users\username\AppData\Roaming\BetterDiscord\themes ← "theme_name.theme.css"-files go inside this folder.
+- To activate the theme, go back to discord in **User Settings > Themes** and press the gray rounded button to the right side of your designated theme.
 
 ## Themes
 # Nord | Polar Night
@@ -54,5 +57,34 @@ I used these colors as a reference when styling the theme.
     "red": "#bf616a",
     "white": "#e5e9f0",
     "yellow": "#ebcb8b"
+}
+```
+
+# Discord | Darkmode
+<img src="https://discord.com/assets/c01c644bc9fa2a28678ae2f44969d248.svg" width="128">
+
+### Preview
+<img src="https://sivert.xyz/wp-content/uploads/2020/07/discord-nord.png">
+
+### Download
+<a href="https://raw.githubusercontent.com/SivertGullbergHansen/Discord-Themes/master/themes/Nord.theme.css" download target="_blank">Click here to download</a>
+
+### Sources
+
+Darkmode was created using the following resources.
+
+| Name | Website |
+| ------ | ------ |
+| Discord Official Homepage | [Homepage](https://discord.com/) |
+
+### Colors
+
+I used these colors as a reference when styling the theme.
+
+```json
+{
+    "name" : "Darkmode",
+    "background" : "#292841",
+    "foreground" : "#1C1B29"
 }
 ```
