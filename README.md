@@ -71,6 +71,7 @@ Courtesy of Discord.
 
 ### Preview
 <img src="https://sivert.xyz/wp-content/uploads/2021/02/forgottodeleteserverrulestextlmao.png">
+<a href="https://imgur.com/gallery/C4Kniir" target="_blank">Imgur Gallery</a>
 
 ### Download
 <a href="https://raw.githubusercontent.com/SivertGullbergHansen/Discord-Themes/master/themes/Discord_Darkmode.theme.css" download target="_blank">Click here to download</a>
