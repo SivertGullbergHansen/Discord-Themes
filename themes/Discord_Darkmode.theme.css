@@ -2,7 +2,7 @@
  * @name Darkmode
  * @description A theme based of the colours showcased at the official Discord Website.
  * @author Sivert
- * @version 1.2
+ * @version 1.3
  * @source https://github.com/SivertGullbergHansen/Discord-Themes
  * @website https://sivert.xyz
  * @donate https://paypal.me/saiverx
@@ -28,7 +28,6 @@
 
 @import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css");
 @import url("https://gibbu.github.io/BetterDiscord-Themes/AdjustableServerWidth/base.css");
-@import url("https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap");
 @import url("https://zzzmario.github.io/modern-indicators/src/source.css");
 
 ::-webkit-input-placeholder, body, button, input, select, textarea {
@@ -95,6 +94,11 @@
 	--background-emoji: #292841;
 	--text-lights-out: #eceff4;
 	--background-titlebar: #292841;
+	--background-modifier-hover: #312F51;
+}
+
+.clickable-1JJAn8.container-2Pjhx-:hover, .clickable-1JJAn8.container-2Pjhx-:hover .muted-3mU76i {
+
 }
 
 .colorable-1bkp8v.primaryDark-3mSFDl, .colorable-1bkp8v.primaryDark-3mSFDl .centerIcon-2G6o-T {
