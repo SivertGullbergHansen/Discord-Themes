@@ -13,9 +13,10 @@ Themes I've created or modified for BetterDiscord / Bandaged BD Discord
  C:\Users\username\AppData\Roaming\BetterDiscord\themes ← "theme_name.theme.css"-files go inside this folder.
 - To activate the theme, go back to discord in **User Settings > Themes** and press the gray rounded button to the right side of your designated theme.
 
-## Themes
+# Themes
 # Nord | Polar Night
 <img src="https://spectrum.imgix.net/communities/0f986bc0-0520-46d5-a57a-f845546f965f/7fc4712c-1e5a-423f-8418-2a0d0fca4762-nord-logo-avatar.png?w=256&h=256&dpr=2&auto=compress&expires=1592352000000&ixlib=js-1.3.0&s=d478c37b9717e9bb9754c9aae6fff065" width="128">
+Courtesy of Nordtheme.
 
 ### Preview
 <img src="https://sivert.xyz/wp-content/uploads/2020/07/discord-nord.png">
@@ -23,8 +24,10 @@ Themes I've created or modified for BetterDiscord / Bandaged BD Discord
 ### Download
 <a href="https://raw.githubusercontent.com/SivertGullbergHansen/Discord-Themes/master/themes/Nord.theme.css" download target="_blank">Click here to download</a>
 
-### Sources
+###Description
+This theme was made using the colour-scheme from Nordtheme.
 
+### Sources
 Nord was created using the following resources.
 
 | Name | Website |
@@ -33,7 +36,6 @@ Nord was created using the following resources.
 | Noctural | [BetterDiscordLibrary](https://betterdiscordlibrary.com/themes/Nocturnal) |
 
 ### Colors
-
 I used these colors as a reference when styling the theme.
 
 ```json
@@ -65,26 +67,37 @@ I used these colors as a reference when styling the theme.
 
 ### Preview
 <img src="https://sivert.xyz/wp-content/uploads/2021/02/forgottodeleteserverrulestextlmao.png">
+Courtesy of Discord.
 
 ### Download
 <a href="https://raw.githubusercontent.com/SivertGullbergHansen/Discord-Themes/master/themes/Nord.theme.css" download target="_blank">Click here to download</a>
 
-### Sources
+### Description
+This theme was based off the colors showcased on the official Discord homepage. 
 
+In the previews, we can see that the roles colours are not coloring the user but instead the role-title. Sadly, we cannot achieve this unless I write a custom plugin that reverses the colours (make your username appear in the default white colour and your role-title appear in its selected colour).
+
+Another sad thing is that in the previews on discords website, you can also see below the users picture in the enlarged user-panel, the roles have a border with a fill-background. It is the same case here, where we cannot set the colour of the background to be equal to the role-colour unless we write a custom plugin.
+
+### Sources
 Darkmode was created using the following resources.
 
 | Name | Website |
 | ------ | ------ |
-| Discord Official Homepage | [Homepage](https://discord.com/) |
+| Discord | [Homepage](https://discord.com/) |
+| Blurple Recolor | [Github](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/BlurpleRecolor) |
 
 ### Colors
-
 I used these colors as a reference when styling the theme.
 
 ```json
 {
     "name" : "Darkmode",
     "background" : "#292841",
-    "foreground" : "#1C1B29"
+    "foreground" : "#1C1B29",
+    "Discord_Role_Color_green" : "#2ddfb4",
+    "Discord_Role_Color_blue" : "#bed3ff",
+    "Discord_Role_Color_orange" : "#ffa78b",
+    "Discord_Role_Color_yellow" : "#fdd171",
 }
 ```
