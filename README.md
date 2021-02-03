@@ -64,7 +64,7 @@ I used these colors as a reference when styling the theme.
 <img src="https://discord.com/assets/c01c644bc9fa2a28678ae2f44969d248.svg">
 
 ### Preview
-<img src="https://sivert.xyz/wp-content/uploads/2020/07/discord-nord.png">
+<img src="https://sivert.xyz/wp-content/uploads/2021/02/forgottodeleteserverrulestextlmao.png">
 
 ### Download
 <a href="https://raw.githubusercontent.com/SivertGullbergHansen/Discord-Themes/master/themes/Nord.theme.css" download target="_blank">Click here to download</a>
