@@ -2,9 +2,9 @@
  * @name Darkmode
  * @description A theme based of the colours showcased at the official Discord Website.
  * @author Sivert
- * @version 1.0
+ * @version 1.2
  * @source https://github.com/SivertGullbergHansen/Discord-Themes
- * @donate https://ko-fi.com/sivert
+ * @website https://sivert.xyz
  * @donate https://paypal.me/saiverx
  * @authorLink https://sivert.xyz
  */
@@ -95,6 +95,26 @@
 	--background-emoji: #292841;
 	--text-lights-out: #eceff4;
 	--background-titlebar: #292841;
+}
+
+.colorable-1bkp8v.primaryDark-3mSFDl, .colorable-1bkp8v.primaryDark-3mSFDl .centerIcon-2G6o-T {
+	color: #1C1B29;
+}
+.colorable-1bkp8v.primaryDark-3mSFDl {
+	background-color: #DBE7FF;
+	color: #1C1B29 !important;
+}
+
+.colorable-1bkp8v.primaryDark-3mSFDl:hover .colorable-1bkp8v.primaryDark-3mSFDl, .colorable-1bkp8v.primaryDark-3mSFDl:hover .centerIcon-2G6o-T {
+	color: #DBE7FF !important;
+}
+
+.colorable-1bkp8v.red-33-Lnk:hover {
+	background-color:  #e7366bad;
+}
+
+.colorable-1bkp8v.red-33-Lnk {
+	background-color:  #E7366B;
 }
 
 .markup-2BOw-j code {
