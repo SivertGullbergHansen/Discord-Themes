@@ -73,7 +73,7 @@ Courtesy of Discord.
 <img src="https://sivert.xyz/wp-content/uploads/2021/02/forgottodeleteserverrulestextlmao.png">
 
 ### Download
-<a href="https://raw.githubusercontent.com/SivertGullbergHansen/Discord-Themes/master/themes/Nord.theme.css" download target="_blank">Click here to download</a>
+<a href="https://raw.githubusercontent.com/SivertGullbergHansen/Discord-Themes/master/themes/Discord_Darkmode.theme.css" download target="_blank">Click here to download</a>
 
 ### Description
 
