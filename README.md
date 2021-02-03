@@ -25,9 +25,11 @@ Courtesy of Nordtheme.
 <a href="https://raw.githubusercontent.com/SivertGullbergHansen/Discord-Themes/master/themes/Nord.theme.css" download target="_blank">Click here to download</a>
 
 ###Description
+
 This theme was made using the colour-scheme from Nordtheme.
 
 ### Sources
+
 Nord was created using the following resources.
 
 | Name | Website |
@@ -36,6 +38,7 @@ Nord was created using the following resources.
 | Noctural | [BetterDiscordLibrary](https://betterdiscordlibrary.com/themes/Nocturnal) |
 
 ### Colors
+
 I used these colors as a reference when styling the theme.
 
 ```json
@@ -73,6 +76,7 @@ Courtesy of Discord.
 <a href="https://raw.githubusercontent.com/SivertGullbergHansen/Discord-Themes/master/themes/Nord.theme.css" download target="_blank">Click here to download</a>
 
 ### Description
+
 This theme was based off the colors showcased on the official Discord homepage. 
 
 In the previews, we can see that the roles colours are not coloring the user but instead the role-title. Sadly, we cannot achieve this unless I write a custom plugin that reverses the colours (make your username appear in the default white colour and your role-title appear in its selected colour).
@@ -80,6 +84,7 @@ In the previews, we can see that the roles colours are not coloring the user but
 Another sad thing is that in the previews on discords website, you can also see below the users picture in the enlarged user-panel, the roles have a border with a fill-background. It is the same case here, where we cannot set the colour of the background to be equal to the role-colour unless we write a custom plugin.
 
 ### Sources
+
 Darkmode was created using the following resources.
 
 | Name | Website |
@@ -88,6 +93,7 @@ Darkmode was created using the following resources.
 | Blurple Recolor | [Github](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/BlurpleRecolor) |
 
 ### Colors
+
 I used these colors as a reference when styling the theme.
 
 ```json
