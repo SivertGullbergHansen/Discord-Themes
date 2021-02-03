@@ -24,7 +24,7 @@ Courtesy of Nordtheme.
 ### Download
 <a href="https://raw.githubusercontent.com/SivertGullbergHansen/Discord-Themes/master/themes/Nord.theme.css" download target="_blank">Click here to download</a>
 
-###Description
+### Description
 
 This theme was made using the colour-scheme from Nordtheme.
 
