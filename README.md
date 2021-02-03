@@ -67,10 +67,10 @@ I used these colors as a reference when styling the theme.
 
 # Discord | Darkmode
 <img src="https://discord.com/assets/c01c644bc9fa2a28678ae2f44969d248.svg">
+Courtesy of Discord.
 
 ### Preview
 <img src="https://sivert.xyz/wp-content/uploads/2021/02/forgottodeleteserverrulestextlmao.png">
-Courtesy of Discord.
 
 ### Download
 <a href="https://raw.githubusercontent.com/SivertGullbergHansen/Discord-Themes/master/themes/Nord.theme.css" download target="_blank">Click here to download</a>
